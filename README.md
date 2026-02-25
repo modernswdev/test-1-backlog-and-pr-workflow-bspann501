@@ -55,3 +55,5 @@ On branch `fix/boss-combat-logic`, implement these fixes:
 - **Healing Guardrails:** Implement boundary checks to ensure a player cannot heal past `50` HP and cannot heal if their health is already `0` or less.
 - **Security Audit:** Remove the `SECRET_CODE` variable and the associated cheat logic block entirely to close the security vulnerability.
 - **Win Condition:** Ensure the game loop terminates with a **"Victory"** message if the Boss health reaches `0`.
+- **Push your branch** and open a Pull Request (PR) to your own `main` branch.
+  
