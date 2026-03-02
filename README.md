@@ -40,7 +40,7 @@ Tasks to identify and comment:
 1. Push your branch and open a Pull Request (PR) to your own `main` branch.
 2. Traceability: In your PR description use the keyword **"Closes #1"** to link your issue.
 3. Collaborative Review:
-   - Add a classmate as a Collaborator to your repo.
+   - Add a classmate as a Reviewer to your repo.
    - Review their PR: leave one meaningful technical comment (e.g., "Did you consider using a constant for `MAX_HP`?", "Good catch — this is a security risk", etc.).
    - Address any feedback from your peer and merge the code into your `main` branch.
 
